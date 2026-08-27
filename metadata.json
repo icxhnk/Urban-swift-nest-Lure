@@ -1,0 +1,6 @@
+{
+  "name": "Urban Swift Nest Lure & Dawn-Dusk Broadcaster",
+  "description": "Bioacoustic sound generator for swift bird nest attraction calls with automated dawn and dusk solar broadcast scheduling, AI nest box design visuals, and ornithology advisor.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
